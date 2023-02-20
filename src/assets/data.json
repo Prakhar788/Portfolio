@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2022",
+      "title": "Calculator",
+      "description": "The user can input the numbers and mathematical operations using the buttons on the calculator, and the result of the calculation would be displayed on the screen. Overall, the calculator would be a simple and easy-to-use tool for performing basic mathematical calculations.",
+      "url": "https://prakhar788.github.io/Web-Development-Projects/calculator/",
+      "imgSrc": "https://cdn.dribbble.com/users/374101/screenshots/5885738/calculator.gif"
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": "Drum-Kit",
+      "description": "A drum kit built using HTML, CSS, and JavaScript would be a web-based application that allows users to play different drum sounds by pressing different keys on the keyboard. The user interface of the drum kit would be designed using HTML and CSS, while the functionality of the drum kit would be implemented using JavaScript.",
+      "url": "https://prakhar788.github.io/Web-Development-Projects/drum-kit/",
+      "imgSrc": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a0039fe836c66516caa1b80a57c0805f/large.gif"
+    },
+    {
+      "date": "15/10/2022",
+      "title": "Etch-a-Sketch",
+      "description": "The Etch-A-Sketch would have a canvas area where the user can draw by moving the cursor on the screen or by using arrow keys on the keyboard. The user can change the color and line width of the drawing using buttons or a color picker. The user also could clear the canvas or shake the screen to erase the drawing.",
+      "url": "https://prakhar788.github.io/Web-Development-Projects/etch-a-sketch/",
+      "imgSrc": "http://www.baruchadi.com/assets/2019-04-15/smearing_square.gif"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "Rock-Paper-Scissors",
+      "description": "The game would consist of three buttons representing rock, paper, and scissors. The user can click on one of the buttons to make their choice and the computer will randomly make its own choice. The game would then determine the winner based on the rules of Rock-Paper-Scissors and display the result on the screen.",
+      "url": "https://prakhar788.github.io/Web-Development-Projects/rock-paper-scissors/",
+      "imgSrc": "https://thumbs.gfycat.com/WhichDisastrousAmurratsnake-max-1mb.gif"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "Tic-Tac-Toe",
+      "description": "The game board would consist of a 3x3 grid of squares, and players can take turns clicking on a square to place their respective symbol (X or O). The game would then check for a winner after each move, and display the result on the screen. The user can play multiple rounds and the score will be updated after each round.",
+      "url": "https://prakhar788.github.io/Web-Development-Projects/tic-tac-toe",
+      "imgSrc": "https://ph-files.imgix.net/39e2e050-5f7b-45dd-b74e-45f8de51bc02.gif?auto=format"
+    }
+  ]
+}
