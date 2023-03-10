@@ -1,6 +1,20 @@
 {
   "projects": [
     {
+      "date": "07/03/2023",
+      "title": "GPT-3 WRITER",
+      "description": "A project description for a GPT-3 writer made using Next.js and React would involve creating a web application that utilizes the OpenAI GPT-3 API to generate text in response to user input.",
+      "url": "https://gpt3-writer-starter-production-959a.up.railway.app/",
+      "imgSrc": "https://staticg.sportskeeda.com/editor/2022/12/f9b36-16707362586877-1920.jpg"
+    },
+    {
+      "date": "27/11/2022",
+      "title": "E-Commerce Website",
+      "description": "Web-based food ordering system created using Bootstrap, React, HTML, CSS, and JavaScript for the frontend and PHP for the backend. It allows users to browse a menu of available food items, select their preferred items, and place an order ",
+      "url": "https://project-e-commerce-fli397h7g-prakhar788.vercel.app/",
+      "imgSrc": "https://cdn.techinasia.com/wp-content/uploads/2020/08/pho-viet-food.gif"
+    },
+    {
       "date": "07/10/2022",
       "title": "Calculator",
       "description": "The user can input the numbers and mathematical operations using the buttons on the calculator, and the result of the calculation would be displayed on the screen. Overall, the calculator would be a simple and easy-to-use tool for performing basic mathematical calculations.",
