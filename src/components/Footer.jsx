@@ -34,6 +34,7 @@ const Footer = () => {
       <a href="#home">
         <AiOutlineArrowUp />
       </a>
+      
     </footer>
   );
 };
